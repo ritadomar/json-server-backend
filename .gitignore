@@ -1,1 +1,3 @@
 .env
+# git ignores changes to these modules
+/node_modules
